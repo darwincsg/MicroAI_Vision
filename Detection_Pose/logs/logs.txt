@@ -1,0 +1,368 @@
+
+=== career-firefighter-relaxing-job-162540.jpeg ===
+Person 1: box=(0.2, 0.0, 207.1, 317.2), conf=0.888
+   Keypoint 00: (77.0, 0.0), conf=0.012
+   Keypoint 01: (84.5, 0.0), conf=0.007
+   Keypoint 02: (70.3, 0.0), conf=0.003
+   Keypoint 03: (98.8, 0.0), conf=0.017
+   Keypoint 04: (57.5, 0.0), conf=0.005
+   Keypoint 05: (134.0, 0.0), conf=0.433
+   Keypoint 06: (23.3, 0.0), conf=0.061
+   Keypoint 07: (180.4, 6.3), conf=0.787
+   Keypoint 08: (2.9, 4.3), conf=0.139
+   Keypoint 09: (175.3, 21.0), conf=0.837
+   Keypoint 10: (20.6, 30.1), conf=0.304
+   Keypoint 11: (90.0, 87.4), conf=0.934
+   Keypoint 12: (20.2, 83.4), conf=0.803
+   Keypoint 13: (71.5, 162.9), conf=0.908
+   Keypoint 14: (19.8, 158.7), conf=0.769
+   Keypoint 15: (46.4, 268.9), conf=0.516
+   Keypoint 16: (39.5, 271.7), conf=0.330
+
+=== carrying-on-head-indian-farm-worker-158011.jpeg ===
+Person 1: box=(40.1, 92.4, 480.0, 356.1), conf=0.876
+   Keypoint 00: (217.4, 186.5), conf=0.998
+   Keypoint 01: (258.1, 164.4), conf=0.998
+   Keypoint 02: (207.5, 159.5), conf=0.984
+   Keypoint 03: (327.0, 186.5), conf=0.987
+   Keypoint 04: (198.8, 168.0), conf=0.264
+   Keypoint 05: (387.7, 290.9), conf=0.958
+   Keypoint 06: (155.2, 294.5), conf=0.978
+   Keypoint 07: (453.8, 330.9), conf=0.164
+   Keypoint 08: (84.4, 341.8), conf=0.339
+   Keypoint 09: (405.5, 268.5), conf=0.466
+   Keypoint 10: (78.7, 242.7), conf=0.578
+   Keypoint 11: (333.6, 412.4), conf=0.017
+   Keypoint 12: (190.9, 408.3), conf=0.026
+   Keypoint 13: (317.8, 364.0), conf=0.001
+   Keypoint 14: (201.2, 359.1), conf=0.001
+   Keypoint 15: (249.7, 391.9), conf=0.000
+   Keypoint 16: (222.6, 367.4), conf=0.000
+
+=== construction-site-build-construction-work-159306.jpeg ===
+Person 1: box=(196.4, 134.0, 257.8, 250.6), conf=0.847
+   Keypoint 00: (216.4, 147.5), conf=0.457
+   Keypoint 01: (216.2, 145.6), conf=0.576
+   Keypoint 02: (218.1, 144.4), conf=0.058
+   Keypoint 03: (220.2, 146.1), conf=0.909
+   Keypoint 04: (226.7, 144.5), conf=0.097
+   Keypoint 05: (225.3, 155.1), conf=0.998
+   Keypoint 06: (229.3, 154.5), conf=0.897
+   Keypoint 07: (218.3, 170.0), conf=0.996
+   Keypoint 08: (220.3, 170.3), conf=0.496
+   Keypoint 09: (201.3, 174.3), conf=0.980
+   Keypoint 10: (205.4, 176.3), conf=0.490
+   Keypoint 11: (244.3, 185.4), conf=0.999
+   Keypoint 12: (246.7, 185.6), conf=0.988
+   Keypoint 13: (241.8, 213.9), conf=0.995
+   Keypoint 14: (240.8, 211.2), conf=0.964
+   Keypoint 15: (250.9, 238.1), conf=0.968
+   Keypoint 16: (249.9, 232.0), conf=0.893
+Person 2: box=(303.7, 114.3, 336.1, 225.6), conf=0.822
+   Keypoint 00: (309.7, 130.9), conf=0.728
+   Keypoint 01: (311.1, 128.3), conf=0.816
+   Keypoint 02: (310.7, 127.9), conf=0.180
+   Keypoint 03: (315.8, 127.7), conf=0.947
+   Keypoint 04: (319.0, 127.5), conf=0.084
+   Keypoint 05: (319.7, 138.8), conf=0.992
+   Keypoint 06: (324.6, 137.3), conf=0.942
+   Keypoint 07: (318.7, 158.6), conf=0.969
+   Keypoint 08: (322.6, 155.8), conf=0.438
+   Keypoint 09: (311.6, 177.9), conf=0.914
+   Keypoint 10: (311.2, 174.5), conf=0.408
+   Keypoint 11: (319.1, 173.0), conf=0.989
+   Keypoint 12: (323.6, 171.4), conf=0.968
+   Keypoint 13: (311.0, 192.0), conf=0.981
+   Keypoint 14: (319.4, 191.5), conf=0.930
+   Keypoint 15: (313.5, 215.8), conf=0.945
+   Keypoint 16: (323.0, 214.4), conf=0.866
+
+=== gardener-worker-gardening-machinery-162564.jpeg ===
+Person 1: box=(158.2, 17.4, 329.8, 281.2), conf=0.922
+   Keypoint 00: (289.6, 41.2), conf=0.869
+   Keypoint 01: (288.4, 36.6), conf=0.205
+   Keypoint 02: (288.6, 36.6), conf=0.910
+   Keypoint 03: (272.7, 36.6), conf=0.041
+   Keypoint 04: (272.4, 38.3), conf=0.927
+   Keypoint 05: (254.4, 61.6), conf=0.917
+   Keypoint 06: (255.1, 67.2), conf=0.995
+   Keypoint 07: (247.2, 103.4), conf=0.731
+   Keypoint 08: (260.1, 116.0), conf=0.994
+   Keypoint 09: (276.3, 131.2), conf=0.712
+   Keypoint 10: (296.5, 132.9), conf=0.981
+   Keypoint 11: (244.1, 148.3), conf=0.989
+   Keypoint 12: (234.6, 153.7), conf=0.997
+   Keypoint 13: (279.6, 206.2), conf=0.953
+   Keypoint 14: (215.6, 212.1), conf=0.987
+   Keypoint 15: (288.6, 252.9), conf=0.763
+   Keypoint 16: (172.9, 260.2), conf=0.872
+
+=== pexels-photo-1018565.jpeg ===
+Person 1: box=(100.4, 152.3, 280.0, 468.7), conf=0.882
+   Keypoint 00: (199.9, 201.5), conf=0.773
+   Keypoint 01: (202.9, 193.9), conf=0.922
+   Keypoint 02: (203.0, 194.7), conf=0.049
+   Keypoint 03: (227.1, 191.9), conf=0.983
+   Keypoint 04: (234.4, 193.7), conf=0.021
+   Keypoint 05: (230.4, 239.4), conf=0.995
+   Keypoint 06: (261.0, 235.9), conf=0.681
+   Keypoint 07: (200.0, 308.4), conf=0.994
+   Keypoint 08: (236.7, 302.4), conf=0.149
+   Keypoint 09: (134.5, 322.6), conf=0.980
+   Keypoint 10: (181.1, 312.1), conf=0.262
+   Keypoint 11: (225.1, 392.0), conf=0.972
+   Keypoint 12: (244.4, 386.4), conf=0.757
+   Keypoint 13: (217.7, 473.1), conf=0.475
+   Keypoint 14: (250.6, 465.5), conf=0.088
+   Keypoint 15: (228.5, 480.0), conf=0.029
+   Keypoint 16: (235.1, 480.0), conf=0.007
+Person 2: box=(0.1, 164.5, 218.1, 479.9), conf=0.842
+   Keypoint 00: (167.6, 215.3), conf=0.982
+   Keypoint 01: (178.2, 211.7), conf=0.876
+   Keypoint 02: (166.2, 200.8), conf=0.967
+   Keypoint 03: (189.3, 203.6), conf=0.143
+   Keypoint 04: (154.1, 180.1), conf=0.706
+   Keypoint 05: (182.7, 228.0), conf=0.920
+   Keypoint 06: (106.1, 197.3), conf=0.978
+   Keypoint 07: (179.1, 287.1), conf=0.722
+   Keypoint 08: (48.5, 235.1), conf=0.927
+   Keypoint 09: (149.9, 302.5), conf=0.746
+   Keypoint 10: (20.2, 259.1), conf=0.899
+   Keypoint 11: (133.4, 351.1), conf=0.973
+   Keypoint 12: (83.6, 337.4), conf=0.983
+   Keypoint 13: (132.1, 449.3), conf=0.773
+   Keypoint 14: (84.3, 425.1), conf=0.830
+   Keypoint 15: (123.2, 480.0), conf=0.216
+   Keypoint 16: (89.5, 471.6), conf=0.240
+
+=== pexels-photo-1018568.jpeg ===
+Person 1: box=(293.8, 61.5, 423.5, 244.7), conf=0.923
+   Keypoint 00: (334.8, 97.4), conf=0.917
+   Keypoint 01: (339.6, 92.0), conf=0.939
+   Keypoint 02: (337.9, 91.5), conf=0.355
+   Keypoint 03: (360.0, 93.4), conf=0.974
+   Keypoint 04: (356.9, 92.5), conf=0.096
+   Keypoint 05: (386.9, 135.1), conf=0.990
+   Keypoint 06: (363.6, 128.1), conf=0.971
+   Keypoint 07: (384.0, 200.8), conf=0.956
+   Keypoint 08: (354.2, 179.8), conf=0.803
+   Keypoint 09: (326.1, 195.1), conf=0.903
+   Keypoint 10: (327.8, 172.1), conf=0.707
+   Keypoint 11: (387.6, 248.6), conf=0.880
+   Keypoint 12: (370.1, 240.8), conf=0.835
+   Keypoint 13: (365.4, 290.6), conf=0.098
+   Keypoint 14: (340.1, 278.2), conf=0.071
+   Keypoint 15: (370.2, 307.1), conf=0.006
+   Keypoint 16: (345.8, 293.0), conf=0.005
+Person 2: box=(170.1, 68.1, 311.3, 231.4), conf=0.864
+   Keypoint 00: (239.0, 99.9), conf=0.995
+   Keypoint 01: (242.9, 93.0), conf=0.956
+   Keypoint 02: (231.6, 95.2), conf=0.992
+   Keypoint 03: (246.7, 93.6), conf=0.331
+   Keypoint 04: (218.3, 98.7), conf=0.953
+   Keypoint 05: (258.9, 126.6), conf=0.989
+   Keypoint 06: (200.9, 131.8), conf=0.994
+   Keypoint 07: (271.8, 171.7), conf=0.917
+   Keypoint 08: (187.4, 187.8), conf=0.966
+   Keypoint 09: (292.0, 183.2), conf=0.861
+   Keypoint 10: (194.0, 226.9), conf=0.926
+   Keypoint 11: (256.0, 226.7), conf=0.917
+   Keypoint 12: (218.4, 231.7), conf=0.939
+   Keypoint 13: (261.3, 287.0), conf=0.140
+   Keypoint 14: (214.7, 293.5), conf=0.176
+   Keypoint 15: (253.0, 298.5), conf=0.010
+   Keypoint 16: (213.3, 314.2), conf=0.010
+
+=== pexels-photo-1043573.jpeg ===
+Person 1: box=(115.0, 82.4, 278.4, 318.2), conf=0.913
+   Keypoint 00: (196.5, 127.1), conf=0.997
+   Keypoint 01: (205.2, 120.2), conf=0.932
+   Keypoint 02: (190.7, 116.5), conf=0.996
+   Keypoint 03: (210.5, 123.1), conf=0.168
+   Keypoint 04: (176.0, 113.7), conf=0.979
+   Keypoint 05: (202.7, 159.4), conf=0.996
+   Keypoint 06: (147.0, 153.1), conf=0.999
+   Keypoint 07: (204.0, 230.2), conf=0.962
+   Keypoint 08: (145.9, 220.3), conf=0.995
+   Keypoint 09: (210.2, 228.6), conf=0.954
+   Keypoint 10: (198.7, 178.9), conf=0.992
+   Keypoint 11: (189.3, 262.7), conf=0.988
+   Keypoint 12: (153.4, 269.3), conf=0.993
+   Keypoint 13: (277.4, 275.9), conf=0.872
+   Keypoint 14: (253.7, 283.9), conf=0.938
+   Keypoint 15: (251.5, 326.3), conf=0.404
+   Keypoint 16: (247.7, 328.7), conf=0.510
+
+=== pexels-photo-1049691.jpeg ===
+Person 1: box=(159.1, 29.0, 415.3, 315.4), conf=0.934
+   Keypoint 00: (297.5, 111.1), conf=0.995
+   Keypoint 01: (316.0, 92.5), conf=0.994
+   Keypoint 02: (275.7, 94.7), conf=0.993
+   Keypoint 03: (341.9, 105.5), conf=0.920
+   Keypoint 04: (249.6, 111.9), conf=0.909
+   Keypoint 05: (378.9, 216.0), conf=0.938
+   Keypoint 06: (205.6, 219.2), conf=0.980
+   Keypoint 07: (401.9, 334.8), conf=0.066
+   Keypoint 08: (175.8, 336.3), conf=0.187
+   Keypoint 09: (367.5, 297.4), conf=0.067
+   Keypoint 10: (228.0, 312.3), conf=0.131
+   Keypoint 11: (333.4, 358.9), conf=0.008
+   Keypoint 12: (231.4, 363.8), conf=0.014
+   Keypoint 13: (353.0, 295.2), conf=0.001
+   Keypoint 14: (270.8, 300.8), conf=0.003
+   Keypoint 15: (302.0, 284.1), conf=0.001
+   Keypoint 16: (310.0, 303.1), conf=0.002
+
+=== pexels-photo-1078879.jpeg ===
+Person 1: box=(26.3, 0.0, 232.2, 314.8), conf=0.914
+   Keypoint 00: (188.1, 105.4), conf=0.995
+   Keypoint 01: (199.2, 90.2), conf=0.939
+   Keypoint 02: (165.5, 88.8), conf=0.997
+   Keypoint 03: (199.9, 102.0), conf=0.075
+   Keypoint 04: (122.7, 103.7), conf=0.990
+   Keypoint 05: (202.7, 185.0), conf=0.920
+   Keypoint 06: (78.5, 194.1), conf=0.963
+   Keypoint 07: (201.8, 297.1), conf=0.293
+   Keypoint 08: (87.3, 317.0), conf=0.531
+   Keypoint 09: (208.8, 239.3), conf=0.465
+   Keypoint 10: (173.5, 211.7), conf=0.744
+   Keypoint 11: (187.6, 326.5), conf=0.031
+   Keypoint 12: (109.5, 340.8), conf=0.038
+   Keypoint 13: (240.2, 278.0), conf=0.007
+   Keypoint 14: (168.1, 300.1), conf=0.010
+   Keypoint 15: (195.6, 336.9), conf=0.002
+   Keypoint 16: (187.1, 360.5), conf=0.002
+Person 2: box=(19.6, 156.8, 55.7, 228.3), conf=0.735
+   Keypoint 00: (48.4, 174.0), conf=0.071
+   Keypoint 01: (46.6, 171.0), conf=0.026
+   Keypoint 02: (48.4, 171.3), conf=0.064
+   Keypoint 03: (35.0, 169.8), conf=0.412
+   Keypoint 04: (48.9, 171.3), conf=0.796
+   Keypoint 05: (26.0, 181.4), conf=0.894
+   Keypoint 06: (50.8, 184.2), conf=0.893
+   Keypoint 07: (20.6, 197.6), conf=0.443
+   Keypoint 08: (53.5, 202.5), conf=0.431
+   Keypoint 09: (28.1, 206.3), conf=0.153
+   Keypoint 10: (52.5, 208.7), conf=0.131
+   Keypoint 11: (27.0, 220.3), conf=0.600
+   Keypoint 12: (44.4, 221.9), conf=0.574
+   Keypoint 13: (27.9, 242.2), conf=0.107
+   Keypoint 14: (45.0, 243.4), conf=0.095
+   Keypoint 15: (28.4, 257.6), conf=0.030
+   Keypoint 16: (43.6, 260.9), conf=0.028
+
+=== pexels-photo-1087083.jpeg ===
+Person 1: box=(101.9, 149.0, 122.8, 203.7), conf=0.266
+   Keypoint 00: (115.8, 155.4), conf=0.172
+   Keypoint 01: (115.7, 154.0), conf=0.117
+   Keypoint 02: (115.9, 153.9), conf=0.109
+   Keypoint 03: (112.3, 154.2), conf=0.515
+   Keypoint 04: (117.3, 154.4), conf=0.485
+   Keypoint 05: (109.5, 159.8), conf=0.966
+   Keypoint 06: (119.1, 160.2), conf=0.958
+   Keypoint 07: (105.1, 167.8), conf=0.869
+   Keypoint 08: (121.5, 168.9), conf=0.811
+   Keypoint 09: (103.9, 176.5), conf=0.719
+   Keypoint 10: (121.4, 177.7), conf=0.634
+   Keypoint 11: (109.9, 175.9), conf=0.983
+   Keypoint 12: (116.3, 175.8), conf=0.980
+   Keypoint 13: (110.0, 188.0), conf=0.958
+   Keypoint 14: (115.6, 188.6), conf=0.947
+   Keypoint 15: (109.8, 198.9), conf=0.922
+   Keypoint 16: (114.0, 199.9), conf=0.908
+Person 2: box=(286.8, 139.8, 302.5, 205.3), conf=0.259
+   Keypoint 00: (293.5, 146.5), conf=0.143
+   Keypoint 01: (293.7, 145.0), conf=0.088
+   Keypoint 02: (293.8, 144.9), conf=0.099
+   Keypoint 03: (291.5, 145.7), conf=0.305
+   Keypoint 04: (295.8, 145.6), conf=0.358
+   Keypoint 05: (290.1, 152.7), conf=0.864
+   Keypoint 06: (297.2, 152.4), conf=0.909
+   Keypoint 07: (288.9, 162.5), conf=0.507
+   Keypoint 08: (299.3, 162.4), conf=0.654
+   Keypoint 09: (290.0, 169.9), conf=0.367
+   Keypoint 10: (300.1, 169.1), conf=0.456
+   Keypoint 11: (290.3, 170.8), conf=0.941
+   Keypoint 12: (295.3, 170.3), conf=0.953
+   Keypoint 13: (290.4, 184.9), conf=0.923
+   Keypoint 14: (295.0, 185.2), conf=0.934
+   Keypoint 15: (291.0, 198.5), conf=0.912
+   Keypoint 16: (294.6, 198.9), conf=0.919
+
+=== pexels-photo-112472.jpeg ===
+Person 1: box=(287.7, 105.1, 360.5, 309.9), conf=0.895
+   Keypoint 00: (314.1, 126.4), conf=0.062
+   Keypoint 01: (313.6, 121.6), conf=0.033
+   Keypoint 02: (315.9, 120.8), conf=0.026
+   Keypoint 03: (308.1, 125.1), conf=0.822
+   Keypoint 04: (328.6, 125.3), conf=0.735
+   Keypoint 05: (301.9, 150.8), conf=0.982
+   Keypoint 06: (339.8, 150.0), conf=0.992
+   Keypoint 07: (300.7, 181.4), conf=0.787
+   Keypoint 08: (352.4, 179.6), conf=0.911
+   Keypoint 09: (319.1, 199.7), conf=0.424
+   Keypoint 10: (342.8, 198.3), conf=0.595
+   Keypoint 11: (309.5, 215.0), conf=0.993
+   Keypoint 12: (334.5, 215.7), conf=0.996
+   Keypoint 13: (322.4, 261.3), conf=0.948
+   Keypoint 14: (335.3, 260.1), conf=0.969
+   Keypoint 15: (330.0, 297.6), conf=0.786
+   Keypoint 16: (337.5, 296.9), conf=0.838
+Person 2: box=(222.8, 104.2, 279.4, 308.6), conf=0.884
+   Keypoint 00: (260.6, 125.8), conf=0.062
+   Keypoint 01: (259.7, 120.3), conf=0.022
+   Keypoint 02: (260.1, 119.9), conf=0.051
+   Keypoint 03: (246.2, 122.2), conf=0.636
+   Keypoint 04: (262.4, 123.4), conf=0.891
+   Keypoint 05: (237.3, 146.0), conf=0.979
+   Keypoint 06: (266.4, 148.6), conf=0.988
+   Keypoint 07: (230.2, 180.3), conf=0.638
+   Keypoint 08: (274.8, 180.2), conf=0.787
+   Keypoint 09: (236.4, 194.4), conf=0.211
+   Keypoint 10: (267.3, 180.0), conf=0.322
+   Keypoint 11: (238.6, 208.4), conf=0.988
+   Keypoint 12: (258.6, 210.7), conf=0.990
+   Keypoint 13: (242.9, 252.5), conf=0.970
+   Keypoint 14: (259.9, 254.4), conf=0.978
+   Keypoint 15: (240.3, 291.5), conf=0.914
+   Keypoint 16: (260.3, 293.9), conf=0.923
+Person 3: box=(339.8, 103.8, 384.4, 269.0), conf=0.786
+   Keypoint 00: (354.3, 119.5), conf=0.045
+   Keypoint 01: (354.1, 115.9), conf=0.054
+   Keypoint 02: (356.4, 115.2), conf=0.015
+   Keypoint 03: (353.4, 117.7), conf=0.804
+   Keypoint 04: (369.8, 117.3), conf=0.342
+   Keypoint 05: (350.2, 133.8), conf=0.963
+   Keypoint 06: (376.1, 133.6), conf=0.906
+   Keypoint 07: (343.1, 149.8), conf=0.700
+   Keypoint 08: (377.9, 153.0), conf=0.382
+   Keypoint 09: (348.8, 146.5), conf=0.270
+   Keypoint 10: (367.5, 155.9), conf=0.126
+   Keypoint 11: (354.0, 182.5), conf=0.987
+   Keypoint 12: (371.6, 182.2), conf=0.979
+   Keypoint 13: (357.9, 220.5), conf=0.981
+   Keypoint 14: (370.3, 218.1), conf=0.973
+   Keypoint 15: (357.1, 256.6), conf=0.962
+   Keypoint 16: (371.6, 254.3), conf=0.952
+
+=== pexels-photo-12733.jpeg ===
+Person 1: box=(0.0, 34.9, 194.2, 315.5), conf=0.788
+   Keypoint 00: (105.6, 104.0), conf=0.995
+   Keypoint 01: (107.9, 90.1), conf=0.533
+   Keypoint 02: (92.4, 96.2), conf=0.998
+   Keypoint 03: (95.1, 84.5), conf=0.002
+   Keypoint 04: (54.1, 100.8), conf=0.997
+   Keypoint 05: (84.3, 116.1), conf=0.991
+   Keypoint 06: (18.1, 151.5), conf=0.995
+   Keypoint 07: (111.3, 176.2), conf=0.942
+   Keypoint 08: (53.6, 243.4), conf=0.985
+   Keypoint 09: (136.6, 153.0), conf=0.951
+   Keypoint 10: (107.7, 177.8), conf=0.988
+   Keypoint 11: (80.0, 240.3), conf=0.975
+   Keypoint 12: (37.1, 264.8), conf=0.979
+   Keypoint 13: (173.2, 256.7), conf=0.768
+   Keypoint 14: (125.3, 289.7), conf=0.829
+   Keypoint 15: (152.1, 310.3), conf=0.176
+   Keypoint 16: (134.7, 341.5), conf=0.157
+
+Total processing time: 1.64 seconds
